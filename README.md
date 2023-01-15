@@ -1,6 +1,8 @@
 # notion-portfolio
 
-- Next.js
-- Tailwind CSS
-- Notion Api
-- Vercel
+[see portfolio](https://notion-portfolio-one.vercel.app/)
+
+-   Next.js
+-   Tailwind CSS
+-   Notion Api
+-   Vercel

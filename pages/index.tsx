@@ -11,8 +11,8 @@ export default function Home() {
     return (
         <Layout>
             <Head>
-                <title>msdio Portfolio</title>
-                <meta name="description" content="msdio's notion portfolio" />
+                <title>wonseok Portfolio</title>
+                <meta name="description" content="wonseok's notion portfolio" />
                 <meta
                     name="viewport"
                     content="width=device-width, initial-scale=1"
